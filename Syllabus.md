@@ -1,3 +1,8 @@
+
+# 16 Nov 2024 Topics
+
+Git Setup for assignment and code review of assignment.
+
 # 15 Nov 2024 Topics
 
 1. LinkedList examples 
