@@ -1,7 +1,7 @@
 
 # 16 Nov 2024 Topics
 
-Git Setup for assignment and code review of assignment.
+Git Setup for assignment and code review of assignment. 
 
 # 15 Nov 2024 Topics
 
