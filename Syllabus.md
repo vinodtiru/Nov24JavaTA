@@ -29,3 +29,9 @@ Sample demo changes
 3. Set and HashSet with examples
 
 Note Git setup will be done today 
+
+
+## Notes 
+Theoretical and Practical Notes
+10 Homework Questions or Assignments
+10 possible Interview Questions
