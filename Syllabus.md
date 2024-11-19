@@ -11,11 +11,13 @@
     => Errors and Exception Handling 
 
 # Java Day 6 ( Nov 19th ) - Padmaja
-    => Comparable and Comparator Interfaces with examples in collections
+    
 
 # Java Day 5 ( Nov 18th ) - Ambuj
     => Basics of OOPs
     => Encapsulation, Inheritance, Polymorphism, and Abstraction.
+    ### Session 2 
+    => Comparable and Comparator Interfaces with examples in collections
 
 # 16 Nov 2024 Topics 
 
