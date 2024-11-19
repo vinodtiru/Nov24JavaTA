@@ -31,7 +31,8 @@ Sample demo changes
 Note Git setup will be done today 
 
 
-## Notes 
+## Notes to be followed by everyone
+
 Theoretical and Practical Notes
 10 Homework Questions or Assignments
 10 possible Interview Questions
