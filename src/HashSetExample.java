@@ -11,6 +11,8 @@ public class HashSetExample {
         set.add("Banana");
         set.add("Cherry");
         set.add("Date");
+        set.add("Kiwi");
+
         System.out.println("Initial HashSet: " + set);
 
         // Attempting to add duplicate elements
