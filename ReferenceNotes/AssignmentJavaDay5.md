@@ -1,7 +1,7 @@
 ## Use the same Assignment GIT, but a new package "JavaOOPS"
 
 Note : 
-    Use the Assignment Git Repo.
+    Use the Assignment Git Repo. 
     Create Package AssignmentJavaOOPs
     Inside that Create Package for every Software
     Inside that Create class for each software 
