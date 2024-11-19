@@ -1,19 +1,19 @@
-# Java Day 9 ( Nov 22nd )
+# Java Day 9 ( Nov 22nd ) - Sathya 
     => Java Generics Day 2
     => Java 8+ Features (Streams API, Lambda Expressions, Functional Interfaces)
 
-# Java Day 8 ( Nov 21st )
+# Java Day 8 ( Nov 21st ) - Ban
     => I/O Streams
     => Java Generics Day 1
 
-# Java Day 7 ( Nov 20th )
+# Java Day 7 ( Nov 20th ) - Meghana
     => Multithreading and Concurrency
     => Errors and Exception Handling 
 
-# Java Day 6 ( Nov 19th )
+# Java Day 6 ( Nov 19th ) - Padmaja
     => Comparable and Comparator Interfaces with examples in collections
 
-# Java Day 5 ( Nov 18th ) 
+# Java Day 5 ( Nov 18th ) - Ambuj
     => Basics of OOPs
     => Encapsulation, Inheritance, Polymorphism, and Abstraction.
 
