@@ -1,17 +1,26 @@
-# Java Day 9 ( Nov 22nd ) - Sathya 
-    => Java Generics Day 2
+# Java Topics to be covered during the interview preparation
+    => I/O Streams
+    => Java Generics
     => Java 8+ Features (Streams API, Lambda Expressions, Functional Interfaces)
+    => Multithreading and Concurrency
+    => Errors and Exception Handling
+
+# Java Day 9 ( Nov 22nd ) - Sathya 
+
 
 # Java Day 8 ( Nov 21st ) - Ban
-    => I/O Streams
-    => Java Generics Day 1
+
 
 # Java Day 7 ( Nov 20th ) - Meghana
-    => Multithreading and Concurrency
-    => Errors and Exception Handling 
+
 
 # Java Day 6 ( Nov 19th ) - Padmaja
-    
+    => REST API Basics
+    => What is Restful
+    => Spring Boot Basics
+    => Sprint Initialzer
+    => Running your first Service
+    => Postman basics and Testing our first API.
 
 # Java Day 5 ( Nov 18th ) - Ambuj
     => Basics of OOPs
