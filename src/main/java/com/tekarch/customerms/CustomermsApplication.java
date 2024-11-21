@@ -1,13 +1,13 @@
-package com.tekarch.sampleservice;
+package com.tekarch.customerms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SampleserviceApplication {
+public class CustomermsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SampleserviceApplication.class, args);
+		SpringApplication.run(CustomermsApplication.class, args);
 	}
 
 }

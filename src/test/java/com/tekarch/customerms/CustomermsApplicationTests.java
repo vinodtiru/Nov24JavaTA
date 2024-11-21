@@ -1,10 +1,10 @@
-package com.tekarch.sampleservice;
+package com.tekarch.customerms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SampleserviceApplicationTests {
+class CustomermsApplicationTests {
 
 	@Test
 	void contextLoads() {
