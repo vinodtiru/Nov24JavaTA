@@ -1,10 +1,19 @@
 package com.tekarch.customerms.Models;
 
+import jakarta.persistence.*;
+
+@Entity
+@Table (name ="User")
 public class Customer {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String name;
     private String address;
     private Integer age;
+
+    @Column (name="bal")
     private Double balance;
 
     public Long getId() {

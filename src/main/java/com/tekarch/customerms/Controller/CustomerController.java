@@ -20,11 +20,6 @@ public class CustomerController {
         return customerServiceImpl.getAllCustomers();
     }
 
-    @GetMapping("/customer/{id}")
-    public Customer getCustomer(@PathVariable Long id){
-        return customerServiceImpl.getCustomerById(id);
-    }
-
     @PostMapping("/customer")
     public Customer addCustomer(@RequestBody Customer customer){
         return customerServiceImpl.addCustomer(customer);

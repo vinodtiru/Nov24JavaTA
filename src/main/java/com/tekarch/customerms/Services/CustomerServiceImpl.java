@@ -15,15 +15,6 @@ public class CustomerServiceImpl implements CustomerService {
         this.customerRepository = customerRepository;
     }
 
-    public Customer getCustomer(){
-        return customerRepository.getCustomerById(1L);
-    }
-
-    @Override
-    public Customer getCustomerById(Long id) {
-        return customerRepository.getCustomerById(id);
-    }
-
     @Override
     public Customer addCustomer(Customer customer) {
         return customerRepository.save(customer);
