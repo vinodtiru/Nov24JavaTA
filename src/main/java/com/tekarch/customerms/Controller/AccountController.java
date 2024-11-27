@@ -2,10 +2,9 @@ package com.tekarch.customerms.Controller;
 
 import com.tekarch.customerms.Models.Account;
 import com.tekarch.customerms.Services.AccountServiceImpl;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
@@ -25,5 +24,11 @@ public class AccountController {
     @PostMapping("/account")
     public Account addAccount(@RequestBody Account account){
         return accountService.addAccount(account);
+    }
+
+    @ExceptionHandler
+    public ResponseEntity<?> respondWithError(Exception e){
+        return new ResponseEntity<>("Exception Occurred. More Info :"
+                + e.getMessage(), HttpStatus.BAD_REQUEST);
     }
 }
