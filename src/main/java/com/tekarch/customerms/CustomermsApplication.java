@@ -24,9 +24,10 @@ public class CustomermsApplication {
 		student.setAddress("Bangalore India");
 		student.setAvgScore(45);
 		student.setRollNumber("12345ABCD");
+		student.setEmail("ramila@tekarch.com");
 
 		Student student2 = new Student(5L,"Vinod","Bangalore India", 20, 45,
-				"12345ABCD");
+				"12345ABCD", "vinod@tekarch.com", "vinod2@gmail.com");
 //		student2.setName("Vinod");
 //		student2.setId(5L);
 //		student2.setAge(20);

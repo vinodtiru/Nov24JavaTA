@@ -1,25 +1,16 @@
 package com.tekarch.customerms.Models;
 
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
 
 @Entity
 @Table
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class Student {
-
-
-    public Student() {
-    }
-
-    public Student(Long id, String name, String address, Integer age, double avgScore, String rollNumber) {
-        this.id = id;
-        this.name = name;
-        this.address = address;
-        this.age = age;
-        this.avgScore = avgScore;
-        this.rollNumber = rollNumber;
-    }
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -31,4 +22,7 @@ public class Student {
 
     @Column(unique=true)
     private String rollNumber;
+
+    private String email;
+    private String secondaryEmail;
 }
